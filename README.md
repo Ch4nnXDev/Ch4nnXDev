@@ -18,7 +18,7 @@ I am a Undergraduate in Computer Science im Aspiring to become a A Computer Scie
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ClKara&limit=5&theme=default&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Ch4nnXDev&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ClKara&icon=1&color=1)](https://visitcount.itsvg.in)
