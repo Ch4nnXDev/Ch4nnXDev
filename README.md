@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Undergraduate in Computer Science im Aspiring to become a A Computer Science Researcher <br>
+I am a Final Year Undergrad in Computer Science Im Aspiring to become a A Computer Science Researcher <br>
 Currently Working as a Web Developer and Digital Marketing Executive @ Davinci Ceramics <br>
 🔭 I’m currently working on Machine Learning and Backend Development<br>⚡ Fun fact: I play guitar
 
